@@ -24,6 +24,8 @@ DigiCoach provides a *Tele-coach* system for empowering diabetes self-management
 ## The Challenge
 It address the challenge providing the following features 1) acts as a nudge nurse to provide reminders for medications, 2) provides data visualisation from the wearable sensors, 3) collects food information from various inputs 4) maintains wellbeing status through simple question and answers.
 
+We envision a holistic approach with a 360° view of the patient, helping the patient in his journey to make conscious life style choices, provide easy access to his health data and maintain a healthy social life.
+
 ## Patient champion interaction
 
 ## Stakeholders
