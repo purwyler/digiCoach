@@ -4,7 +4,7 @@ Tele-coach for empowering diabetes self-management
 *DayOne Health Hack Basel, Switzerland. Final Sprint 6. November - 8. November 2020* #dayonebasel
 
 - Health Hack challenge: [My Coach](https://2020.healthhack.solutions/project/5)
-- Health Hack project: [DigiCoach](https://2020.healthhack.solutions/project/72)
+- Health Hack project: [digiCoach](https://2020.healthhack.solutions/project/72)
 
 ##### Participants (please check the project link for an update):
 [Aletta](https://2020.healthhack.solutions/user/Aletta)
@@ -27,6 +27,8 @@ It address the challenge providing the following features 1) acts as a nudge nur
 We envision a holistic approach with a 360° view of the patient, helping the patient in his journey to make conscious life style choices, provide easy access to his health data and maintain a healthy social life.
 
 ## Patient champion interaction
+Patient Champion [E.E](https://2020.healthhack.solutions/project/24) 
+External Patient Champion (female) from Central Switzerland provided 
 
 ## Stakeholders
 
