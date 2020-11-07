@@ -19,7 +19,7 @@ Tele-coach for empowering diabetes self-management
 Join our Slack channel [here](https://dayonehealthhack.slack.com/archives/C01E8QTE36F)
 
 ## Summary
-DigiCoach provides a Tele-coach system for empowering diabetes self-management while addressing the patient Data Interoperability.
+DigiCoach provides a *Tele-coach* system for empowering diabetes self-management, while addressing the **patient data interoperability**.
 
 ## The Challenge
 It address the challenge providing the following features 1) acts as a nudge nurse to provide reminders for medications, 2) provides data visualisation from the wearable sensors, 3) collects food information from various inputs 4) maintains wellbeing status through simple question and answers.
